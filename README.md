@@ -60,3 +60,6 @@ Transactions are stored in `all_transactions.json` with the following format:
 - Values are stored in ETH (converted from Wei)
 - Currently supports ETH transactions (can be extended for ERC20 tokens)
 - No depth limit - will trace until no more outgoing transactions are found 
+
+
+Participant wallet: 0x9CeaC40E54573409F346257Ba941Fae408513028
